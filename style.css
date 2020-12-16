@@ -1,0 +1,137 @@
+body
+   font-family:arial;
+   font-size:14px
+   }
+ .navigation{
+	 margin:20px 10px;
+ }
+ .navigation li{
+	 float:center;
+	 list-style-type:none;
+ }
+ .navigation li a{
+	 
+	 
+ }
+ .navigation li a:hover{background:#0069d4}
+ .navigation li:first-child a{
+	 border-radius:30px 0 0 30px;
+	 
+	 }w
+ .navigation li:last-child a{
+	 border-radius:0px 30px 30px 0px;
+ }
+	 
+	 .navigation2 li{
+	 display:inline-block;
+	 padding:38px
+ }
+ .navigation2 li a {color:#666;text-decoration:none;padding-bottom:10px}
+ .navigation2 li a:hover{border-bottom: 2px solid #cc181e;color:#000}
+	 
+	 
+	 
+
+
+
+	
+.sosyalbutonlar{
+	margin-top: 50px;
+	display: inline-block;
+	position: relative;
+	left: 200px;
+  
+	
+	}
+	
+.sosyalbutonlar a  {
+  background:#a1a1a1;
+	text-decoration: none;
+	color: #FFF;
+	width: 60px;
+	height: 60px;
+	display: inline-block;
+	border-radius: 10px;
+	margin-right: 20px;
+	font-size: 30px;
+	overflow: hidden;
+	position: relative;
+	line-height: 60px;
+	text-align: left;
+  }
+    
+.sosyalbutonlar a{  
+   
+   transition: transform 0.4s linear 0s, 
+	 border-top-left-radius 0.1s linear 0s, 
+	 border-top-right-radius 0.1s linear 0.1s, 
+	 border-bottom-right-radius 0.1s linear 0.2s, 
+	 border-bottom-left-radius 0.1s linear 0.3s;
+ 	
+}
+
+.sosyalbutonlar .facebook:hover {
+      background-color: #3b5998;
+      transform: rotate(360deg);
+      border-radius: 50%;	 
+	
+}
+
+  .sosyalbutonlar .twitter:hover   {
+      background-color: #00aced;
+      transform: rotate(360deg);
+      border-radius: 50%;
+   
+}
+  
+ .sosyalbutonlar .pinterest:hover   {
+      background-color: #dd4b39;
+      transform: rotate(360deg);
+      border-radius: 50%;
+      
+}
+
+ .sosyalbutonlar .instagram:hover   {
+      background-color: #bc2a8d;
+      transform: rotate(360deg);
+      border-radius: 50%;	 
+	
+}
+
+ .sosyalbutonlar .linkedin:hover   {
+      background-color: #00aced;
+      transform: rotate(360deg);
+      border-radius: 50%;	
+        
+}
+
+ .sosyalbutonlar .youtube:hover   {
+       background-color: #bb0000;
+      transform: rotate(360deg);
+      border-radius: 50%;	 
+}
+
+
+
+	 
+	 
+	 
+	 	 .ornek{
+width: 900px;
+margin:auto;
+}
+.sola-kaydir{
+float:left;
+padding:0 10px 10px 0;
+}
+ 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
